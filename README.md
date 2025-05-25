@@ -13,7 +13,8 @@ A patient Registration system that runs entirely in your browser using PGlite.
 
 - Node.js (v16 or higher)
 - npm (v7 or higher)
-
+### Live URL :Project deployed using vercel
+https://patient-registration-system-nine.vercel.app/
 ## 🧩 Implementation Details
 
 ### PGlite Integration
